@@ -5,3 +5,5 @@
 [Email Client CSS Support / Email Design Reference](https://templates.mailchimp.com/resources/email-client-css-support/) - CSS reference chart for various email clients.
 
 [CSS Support Guide for Email](https://www.campaignmonitor.com/css/) - A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients on the planet.
+
+[The Fab Four Techinque](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.pq882ji4r) - Responsive Emails without Media Queries
