@@ -9,3 +9,5 @@
 [The Fab Four Techinque](https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.pq882ji4r) - Responsive Emails without Media Queries
 
 [article - what i learned](http://www.leemunroe.com/building-html-email/)
+
+[some challenges with different clients](http://www.creativebloq.com/how-to/create-perfect-messages-in-all-email-clients)
